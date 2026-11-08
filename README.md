@@ -1,5 +1,7 @@
 # GB206 TPC floorsweeping research
 
+**Have a desktop RTX 5060 Ti? [Collect and share a read-only sample](CONTRIBUTE-DATA.md).**
+
 Looking for a read-only comparison from a desktop RTX 5060 Ti (GB206). This project measures the enabled TPC/SM topology on an RTX 5060 Laptop. The source of the disabled bits and the health of those units are open questions.
 
 ## RTX 5060 Laptop measurements
